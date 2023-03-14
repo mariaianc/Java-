@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ListView fx:id="list_all_id" layoutX="21.0" layoutY="14.0" prefHeight="200.0" prefWidth="556.0" />
+      <ComboBox fx:id="combobox_description_id" layoutX="21.0" layoutY="239.0" onAction="#select_combobox_description" prefWidth="150.0" />
+   </children>
+</AnchorPane>
