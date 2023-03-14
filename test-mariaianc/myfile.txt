@@ -1,0 +1,7 @@
+ControlSoftware{version=9, code='1234', maintenance=true}
+ControlSoftware{version=11, code='3333', maintenance=true}
+ControlSoftware{version=5, code='812', maintenance=true}
+Instrument{measurementType='altitude', code='5555', maintenance=true}
+Instrument{measurementType='direction', code='8240', maintenance=true}
+Instrument{measurementType='engine_state', code='001', maintenance=true}
+ControlSoftware{version=5, code='"356"', maintenance=true}
